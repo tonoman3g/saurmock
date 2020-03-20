@@ -1,8 +1,9 @@
 {
-  "files": [
+  "wrong_format": [
     {
       "url":"https://www.google.com",
-      "name": "nama.txt"
+      "name": "nama.txt",
+"hartono":"ganteng"
     },
     {
       "url":"https://www.google.com",
